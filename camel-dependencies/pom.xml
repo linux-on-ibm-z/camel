@@ -320,7 +320,7 @@
         <picocli-version>4.7.3</picocli-version>
         <maven-shade-plugin-version>3.4.1</maven-shade-plugin-version>
         <huaweicloud-obs-version>3.23.3</huaweicloud-obs-version>
-        <grpc-version>1.54.0</grpc-version>
+        <grpc-version>1.56.0</grpc-version>
         <assertj-version>3.24.2</assertj-version>
         <scala-datasonnet-version>2.13.10</scala-datasonnet-version>
         <javaparser-version>3.13.10</javaparser-version>
